@@ -3,3 +3,4 @@ Add mushrooms
 Add onions
 Add chicken
 Add peppers
+Tip the driver
