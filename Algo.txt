@@ -1,3 +1,5 @@
 Call Pizza Hut
 Add mushrooms
-Add onion
+Add onions
+Add chicken
+Add peppers
